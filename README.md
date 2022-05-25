@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning ROS
 - 📫 How to reach me sunwenqi713@gmail.com
 
-<!-- [![Wenqi Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwenqi0713&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunwenqi0713&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/> -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunwenqi0713&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+<a href="https://github.com/sunwenqi0713/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunwenqi0713&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wenqi Sun's github stats" />
+</a>
+<a href="https://github.com/sunwenqi0713/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenqi0713&layout=compact&theme=buefy&hide_border=true" />
+</a>
