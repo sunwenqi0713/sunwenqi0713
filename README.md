@@ -22,6 +22,7 @@
 
 ---
 
+## 🪟gitHub dashboard
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=29433299" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=29433299&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -31,7 +32,7 @@
 
 ---
 
-## 📫 reach me at
+## 📧 reach me at
 
 [![Email](https://img.shields.io/badge/邮箱-sunwenqi713@gmail.com-important?style=flat&logo=gmail)](mailto:sunwenqi713@gmail.com)
 [![个人博客](https://img.shields.io/badge/博客-CSDN-green?style=flat&logo=wordpress)](https://blog.csdn.net/laplaya?type=blog)
